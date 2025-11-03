@@ -12,7 +12,7 @@ This project automates the task of summarizing lecture notes using a fine-tuned 
 - `Lecture_notes_summarizer.py` – main agent code
 - `AI Agent Architecture.pdf` – architecture & workflow
 - `AI Agent Data Science Report.pdf` – fine-tuning & evaluation details
-- `Dataset.txt` – link for dataset - GNR649
+- `Dataset and video.txt` – link for dataset "GNR649" and Explanation video
 - `interaction_logs.txt` – test conversations
 - `README.md` – project summary and usage guide
 

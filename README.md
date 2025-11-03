@@ -1,6 +1,6 @@
-Name - Sahil Jana
-University - Indian Institute of Technology Bombay (IITB)
-Dep - Metallurgical Engineering and Material Science
+Name - Sahil Jana  
+University - Indian Institute of Technology Bombay (IITB)  
+Dep - Metallurgical Engineering and Material Science  
 Roll no - 23B2533
 
 # AI Agent Prototype – Lecture Notes Summarizer
